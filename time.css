@@ -78,6 +78,7 @@
 label{
     margin-top: 30px;
     font-size: 40px;
+    color:green;
     
 }
 @media screen  and (max-width: 512px) {
